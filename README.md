@@ -4,7 +4,7 @@ Tools for better password analysis
 Unhash toolset contains the following tools:
 default\_passwords
 ------------------
-A simple tool to help with fetching common lists from various online repositories and merging them ordered by occurance and weight of each pair. Contains a user-passwords list user\_pass\_services\_122013.txt (separated with space) that contains almost all common default preset passwords for network devices and services. Useful for checking if there are no factory passwords present on most services and devices.
+A simple tool to help with fetching common lists from various online repositories and merging them ordered by occurrence and weight of each pair. Contains a user-passwords list user\_pass\_services\_122013.txt (separated with space) that contains almost all common default preset passwords for network devices and services. Useful for checking if there are no factory passwords present on most services and devices.
 
 botpass
 ---------
